@@ -132,7 +132,7 @@ class App extends StatelessWidget {
                 ),
                 const CurrencyCard(
                   y: -40,
-                  name: 'Won',
+                  name: 'W',
                   code: 'KRW',
                   amount: '42 800',
                   icon: Icons.money,
